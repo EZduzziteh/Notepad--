@@ -1,0 +1,12 @@
+C:\Users\Sasha\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\Sasha\source\repos\test\test\bin\Debug\test.exe
+C:\Users\Sasha\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.exe
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.pdb
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.NotepadForm.resources
+C:\Users\Sasha\source\repos\test\test\obj\Debug\test.SaveChangesDialog.resources
